@@ -1,1 +1,1 @@
-# Music-DB
+# MusicDB
